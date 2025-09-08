@@ -40,7 +40,7 @@ The analysis highlights which features strongly impact credit scores and builds 
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 The next phase of this project will involve building a **classification model** to predict whether a customer’s credit score is **Good, Standard, or Poor**. Potential approaches include:
 
@@ -52,7 +52,7 @@ This will make the project more practical for real-world lending decisions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming:** Python
 * **Libraries:** Pandas, Matplotlib, Seaborn, Scipy, Statsmodels
